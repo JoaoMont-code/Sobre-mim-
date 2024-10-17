@@ -4,7 +4,7 @@
 
 ## 🎓 Sobre Mim
 
-Sou estudante de Ciência da Computação na **Universidade Presbiteriana Mackenzie**. sou apaixonado em tecnologia e em criar novas habilidades.
+Sou estudante de Ciência da Computação na **Universidade Presbiteriana Mackenzie**, sou apaixonado em tecnologia e em criar novas habilidades.
 ---
 
 ## 🔧 Habilidades
