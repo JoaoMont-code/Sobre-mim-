@@ -12,12 +12,12 @@
         <p>Bem-vindo ao meu perfil no GitHub!</p>
     </header>
     
-    <section>
+<section>
         <h2>Sobre Mim</h2>
         <p>[Uma breve descrição sobre você, suas habilidades e interesses]</p>
     </section>
     
-    <section>
+<section>
         <h2>Minhas Habilidades</h2>
         <ul>
             <li>[Habilidade 1]</li>
@@ -27,7 +27,7 @@
         </ul>
     </section>
     
-    <section>
+<section>
         <h2>Projetos Recentes</h2>
         <ul>
             <li><a href="[URL do Projeto 1]">Projeto 1</a>: [Descrição do Projeto 1]</li>
@@ -36,7 +36,7 @@
         </ul>
     </section>
     
-    <footer>
+<footer>
         <h2>Entre em Contato</h2>
         <p>Você pode me encontrar em:</p>
         <ul>
