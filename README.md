@@ -1,20 +1,56 @@
-# Portfólio de João Pedro
+# 👋 Olá, eu sou o João Pedro!
 
-![Python Logo](https://www.python.org/community/logos/python-logo.png)
+![Python Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-python-computer-icons-programming-language-executa-7247110%2F&psig=AOvVaw0Nhw0u9qtF4VqGUrIKRHzE&ust=1729218516266000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiezYyvlIkDFQAAAAAdAAAAABAI)
 
-## Sobre Mim
+## 🎓 Sobre Mim
 
-Meu nome é João Pedro e estou estudando na Mackenzie. Sou apaixonado por programação e tecnologia.
+Sou estudante de Ciência da Computação na **Universidade Presbiteriana Mackenzie**. Tenho uma paixão por programação e tecnologia, e estou sempre em busca de aprender e desenvolver novas habilidades.
 
-## Projetos
+---
 
-Aqui estão alguns dos projetos que eu estou trabalhando:
+## 🔧 Habilidades
 
-- [Projeto 1](https://github.com/seu_usuario/projeto1) - Descrição do projeto 1
-- [Projeto 2](https://github.com/seu_usuario/projeto2) - Descrição do projeto 2
-- [Projeto 3](https://github.com/seu_usuario/projeto3) - Descrição do projeto 3
+- **Linguagens de Programação:** Python, Java, JavaScript
+- **Web Development:** HTML, CSS, React
+- **Banco de Dados:** MySQL, PostgreSQL
+- **Ferramentas:** Git, GitHub, VS Code
 
-## Contato
+---
 
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/seu_perfil) ou me enviar um e-mail para joaopedro@example.com.
+## 💻 Projetos
 
+Aqui estão alguns dos projetos que estou desenvolvendo:
+
+1. **[Nome do Projeto 1](https://github.com/seu_usuario/projeto1)**  
+   _Descrição: Uma breve descrição do que o projeto faz e as tecnologias utilizadas._
+
+2. **[Nome do Projeto 2](https://github.com/seu_usuario/projeto2)**  
+   _Descrição: Uma breve descrição do que o projeto faz e as tecnologias utilizadas._
+
+3. **[Nome do Projeto 3](https://github.com/seu_usuario/projeto3)**  
+   _Descrição: Uma breve descrição do que o projeto faz e as tecnologias utilizadas._
+
+---
+
+## 📫 Contato
+
+- **E-mail:** [joaopedro@example.com](https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-monteiro-401a9b317/)
+- **LinkedIn:** [linkedin.com/in/seu_perfil](https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-monteiro-401a9b317/)
+- **GitHub:** [github.com/seu_usuario](https://github.com/seu_usuario)
+
+---
+
+## 🌱 O que estou aprendendo
+
+Atualmente, estou me aprofundando em:
+
+- Machine Learning com Python
+- Estruturas de Dados
+- SQL
+- BANCO DE DADOS
+- ANALISE DE DADOS
+
+---
+
+
+Obrigado por visitar meu portfólio! Fique à vontade para entrar em contato.
