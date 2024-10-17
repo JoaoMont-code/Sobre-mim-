@@ -1,5 +1,4 @@
-
-<!DOCTYPE html>
+**<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -67,7 +66,7 @@
 <section>
         <h2>Sobre Mim</h2>
         <p>Eu sou programador e utilizo Jupyter Notebook para desenvolver meus projetos.</p>
-    </section>
+</section>
     
 <section>
         <h2>Minhas Habilidades</h2>
@@ -79,10 +78,10 @@
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/C_Logo.svg/512px-C_Logo.svg.png" alt="C"> C
             </li>
             <li>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Jupyter_logo.svg" alt="Jupyter Notebook"> Jupyter Notebook
+                <img src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter Notebook"> Jupyter Notebook
             </li>
         </ul>
-    </section>
+ </section>
     
 <section>
         <h2>Projetos Recentes</h2>
@@ -91,9 +90,9 @@
             <li><a href="[URL do Projeto 2]">Projeto 2</a>: [Descrição do Projeto 2]</li>
             <li><a href="[URL do Projeto 3]">Projeto 3</a>: [Descrição do Projeto 3]</li>
         </ul>
-    </section>
+ </section>
     
-<footer>
+ <footer>
         <h2>Entre em Contato</h2>
         <p>Você pode me encontrar em:</p>
         <ul>
