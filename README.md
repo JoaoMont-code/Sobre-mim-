@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -63,7 +64,7 @@
         <p>Bem-vindo ao meu perfil no GitHub!</p>
     </header>
     
- <section>
+<section>
         <h2>Sobre Mim</h2>
         <p>Eu sou programador e utilizo Jupyter Notebook para desenvolver meus projetos.</p>
     </section>
@@ -75,10 +76,10 @@
                 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"> Python
             </li>
             <li>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/C_Logo.svg/512px-C_Logo.svg.png" alt="C"> C
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/C_Logo.svg/512px-C_Logo.svg.png" alt="C"> C
             </li>
             <li>
-                <img src="https://raw.githubusercontent.com/jupyter/design/master/logos/jupyter/jupyterlogo.svg" alt="Jupyter Notebook"> Jupyter Notebook
+                <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Jupyter_logo.svg" alt="Jupyter Notebook"> Jupyter Notebook
             </li>
         </ul>
     </section>
@@ -92,7 +93,7 @@
         </ul>
     </section>
     
- <footer>
+<footer>
         <h2>Entre em Contato</h2>
         <p>Você pode me encontrar em:</p>
         <ul>
@@ -103,5 +104,6 @@
     </footer>
 </body>
 </html>
+
 
 
