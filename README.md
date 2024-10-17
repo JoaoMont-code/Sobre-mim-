@@ -1,5 +1,5 @@
 
-![Portfólio - José leandro](https://github.com/user-attachments/assets/2613ae8c-8569-4487-b4ca-8d5ecd88fc50)
+![Portfólio - João Monteiro](https://github.com/JoaoMont-code )
 
 # Welcome to My Portfolio 🌟
  ![GitHub release (latest by date)](https://img.shields.io/github/v/release/jose-leandro/Portfolio)
