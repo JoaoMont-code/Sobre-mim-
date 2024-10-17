@@ -14,8 +14,8 @@
     
 <section>
         <h2>Sobre Mim</h2>
-        <p>[Uma breve descrição sobre você, suas habilidades e interesses]</p>
-    </section>
+        <p>Eu sou programador e utilizo Jupyter Notebook para desenvolver meus projetos.</p>
+</section>
     
 <section>
         <h2>Minhas Habilidades</h2>
@@ -27,14 +27,14 @@
         </ul>
     </section>
     
-<section>
+ <section>
         <h2>Projetos Recentes</h2>
         <ul>
             <li><a href="[URL do Projeto 1]">Projeto 1</a>: [Descrição do Projeto 1]</li>
             <li><a href="[URL do Projeto 2]">Projeto 2</a>: [Descrição do Projeto 2]</li>
             <li><a href="[URL do Projeto 3]">Projeto 3</a>: [Descrição do Projeto 3]</li>
         </ul>
-    </section>
+ </section>
     
 <footer>
         <h2>Entre em Contato</h2>
