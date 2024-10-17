@@ -1,6 +1,6 @@
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F2580&height=120&section=header"/>
+<img width=100% src="https://img.freepik.com/fotos-gratis/um-passaro-branco-com-uma-cabeca-azul-esta-voando-no-ceu-com-a-palavra-paz-nele_1340-24741.jpg?semt=ais_hybrid"/>
 
 
 #👋 Olá, eu sou o João Pedro!
