@@ -38,7 +38,7 @@ Aqui estão alguns dos projetos que estou desenvolvendo:
 
 Atualmente, estou me aprofundando em:
 
-- Machine Learning com Python
+- MACHINE LEARNING COM PYTHON
 - Estruturas de Dados
 - SQL
 - BANCO DE DADOS
