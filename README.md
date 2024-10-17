@@ -1,7 +1,8 @@
 
 
-<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fobservatoriodocinema.uol.com.br%2Fanimes%2Fone-piece-deixa-o-gear-5-de-luffy-ainda-mais-roubado%2F&psig=AOvVaw2Ycd6tNSXD5P-XCuSeWecx&ust=1729220110721000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCyn4i1lIkDFQAAAAAdAAAAABAJ">Clique aqui para ver o artigo sobre One Piece</a>
-
+<a href="https://criticalhits.com.br/wp-content/uploads/2022/09/one-piece-episodio-luffy-luta-crocodile.jpg">
+    <img src="https://criticalhits.com.br/wp-content/uploads/2022/09/one-piece-episodio-luffy-luta-crocodile.jpg" alt="One Piece - Luffy vs Crocodile">
+</a>
 
 
 
