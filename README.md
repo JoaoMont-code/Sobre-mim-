@@ -32,7 +32,7 @@ Aqui estão alguns dos projetos que estou desenvolvendo:
 
 - **E-mail:** [joaopedro@example.com](https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-monteiro-401a9b317/)
 - **LinkedIn:** [linkedin.com/in/seu_perfil](https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-monteiro-401a9b317/)
-- **GitHub:** [github.com/seu_usuario](https://github.com/seu_usuario)
+- **GitHub:** [https://github.com/JoaoMont-code)
 
 ---
 
