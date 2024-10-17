@@ -1,11 +1,10 @@
-# 👋 Olá, eu sou o João Pedro, aluno de ciencia da computação do mackenzie, estou no primeiro semestre!
+# 👋 Olá, eu sou o João Pedro!
 
 ![Python Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-python-computer-icons-programming-language-executa-7247110%2F&psig=AOvVaw0Nhw0u9qtF4VqGUrIKRHzE&ust=1729218516266000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiezYyvlIkDFQAAAAAdAAAAABAI)
 
 ## 🎓 Sobre Mim
 
-Sou estudante de Ciência da Computação na **Universidade Presbiteriana Mackenzie**. Tenho uma paixão por programação e tecnologia, e estou sempre em busca de aprender e desenvolver novas habilidades.
-
+Sou estudante de Ciência da Computação na **Universidade Presbiteriana Mackenzie**. sou apaixonado em tecnologia e em criar novas habilidades.
 ---
 
 ## 🔧 Habilidades
