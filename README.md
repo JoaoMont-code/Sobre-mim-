@@ -17,14 +17,8 @@ Sou estudante de Ciência da Computação na **Universidade Presbiteriana Macken
 
 Aqui estão alguns dos projetos que estou desenvolvendo:
 
-1. **[Nome do Projeto 1](https://github.com/seu_usuario/projeto1)**  
-   _Descrição: Uma breve descrição do que o projeto faz e as tecnologias utilizadas._
-
-2. **[Nome do Projeto 2](https://github.com/seu_usuario/projeto2)**  
-   _Descrição: Uma breve descrição do que o projeto faz e as tecnologias utilizadas._
-
-3. **[Nome do Projeto 3](https://github.com/seu_usuario/projeto3)**  
-   _Descrição: Uma breve descrição do que o projeto faz e as tecnologias utilizadas._
+1. **[Nome do Projeto 1](https://github.com/JoaoMont-code/Pib_Mundial)**  
+     Neste Projeto iremos analisar os dados perante a cidade/municipio de cada país por continente. dentre eles estão: África, América do sul,América do Norte,Antártida, Ásia, Europa e Oceania. iremos pegar os 7 melhores paises de cada continente e ver qual possui o maior pib entre eles, em seguida iremos analisar os graficos a tabelas lado a lado para ver qual é o continente que possui o maior pib por municipio
 
 ---
 
