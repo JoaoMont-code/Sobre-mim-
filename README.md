@@ -5,7 +5,7 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" 
         </li>
         <li>
-            <img src=" https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" 
+            <img src="https://br.pinterest.com/pin/676595544000038440/" 
         </li>
         <li>
             <img src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter Notebook" style="width: 24px; vertical-align: middle;"> Jupyter Notebook
