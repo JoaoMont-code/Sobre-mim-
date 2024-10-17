@@ -1,7 +1,6 @@
 
-
 <a href="https://criticalhits.com.br/wp-content/uploads/2022/09/one-piece-episodio-luffy-luta-crocodile.jpg">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQago_qkiWLuz-_DHJZXWOgC2N-dpmaI0cTNQ&s">
+    <img src="https://wallpaper.forfun.com/fetch/0a/0a4c23b0560fe783c963b247f6387cfe.jpeg">
 </a>
 
 
