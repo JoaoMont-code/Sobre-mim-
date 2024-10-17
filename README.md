@@ -3,12 +3,12 @@
 <img width=100% src="https://img.freepik.com/fotos-gratis/um-passaro-branco-com-uma-cabeca-azul-esta-voando-no-ceu-com-a-palavra-paz-nele_1340-24741.jpg?semt=ais_hybrid"/>
 
 
-#👋 Olá, eu sou o João Pedro!
+
 
 
 ## 🎓 Sobre Mim
 
-Sou estudante de Ciência da Computação na **Universidade Presbiteriana Mackenzie**, sou apaixonado em tecnologia e em criar novas habilidades.
+Olá meu nome João Pedro Monteiro, Sou estudante de Ciência da Computação na **Universidade Presbiteriana Mackenzie**, sou apaixonado em tecnologia e em criar novas habilidades.
 ---
 
 
