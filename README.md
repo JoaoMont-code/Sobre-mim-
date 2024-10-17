@@ -1,7 +1,7 @@
 
 
 <a href="https://criticalhits.com.br/wp-content/uploads/2022/09/one-piece-episodio-luffy-luta-crocodile.jpg">
-    <img src="https://criticalhits.com.br/wp-content/uploads/2022/09/one-piece-episodio-luffy-luta-crocodile.jpg" alt="One Piece - Luffy vs Crocodile">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQago_qkiWLuz-_DHJZXWOgC2N-dpmaI0cTNQ&s">
 </a>
 
 
