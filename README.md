@@ -24,7 +24,7 @@ Aqui estão alguns dos projetos que estou desenvolvendo:
 
 ## 📫 Contato
 
-- **E-mail:** [joaopedro@example.com](https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-monteiro-401a9b317/)
+- **E-mail:** [joaodatamonteiro@gmail.com](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox)
 - **LinkedIn:** [linkedin.com/in/seu_perfil](https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-monteiro-401a9b317/)
 - **GitHub:** [https://github.com/JoaoMont-code)
 
