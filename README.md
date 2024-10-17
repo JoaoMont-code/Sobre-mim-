@@ -9,10 +9,7 @@ Sou estudante de Ciência da Computação na **Universidade Presbiteriana Macken
 
 ## 🔧 Habilidades
 
-- **Linguagens de Programação:** Python, Java, JavaScript
-- **Web Development:** HTML, CSS, React
-- **Banco de Dados:** MySQL, PostgreSQL
-- **Ferramentas:** Git, GitHub, VS Code
+- **Linguagens de Programação:** Python, SQL, C
 
 ---
 
