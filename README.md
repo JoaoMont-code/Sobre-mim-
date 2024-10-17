@@ -1,6 +1,5 @@
 # 👋 Olá, eu sou o João Pedro!
 
-![Python Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-python-computer-icons-programming-language-executa-7247110%2F&psig=AOvVaw0Nhw0u9qtF4VqGUrIKRHzE&ust=1729218516266000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiezYyvlIkDFQAAAAAdAAAAABAI)
 
 ## 🎓 Sobre Mim
 
@@ -30,7 +29,7 @@ Aqui estão alguns dos projetos que estou desenvolvendo:
 
 ---
 
-## 🌱 O que estou aprendendo
+## 🌱 O que estou aprofundando 
 
 Atualmente, estou me aprofundando em:
 
